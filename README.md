@@ -1,4 +1,3 @@
-# https://800wzdh.github.io
 # 800网址导航发布器
 
 # www.800wzdh.com 可能随时会失效！
